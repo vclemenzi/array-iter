@@ -1,0 +1,25 @@
+{
+  "name": "array-iter",
+  "version": "1.0.0",
+  "description": "Parallel arrays with web support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vclemenzi/array-iter"
+  },
+  "keywords": [
+    "typescript",
+    "array",
+    "iterator",
+    "parallel"
+  ],
+  "author": "Valerio Clemenzi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
